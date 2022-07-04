@@ -1,2 +1,3 @@
 # lab_HW2
-data augmentation
+
+## The task is to improve the performance of ResNet CNN classification model solely through actions on the status itself.
