@@ -8,6 +8,8 @@ from torchvision import transforms
 from torch.autograd import Variable
 from torchvision.utils import save_image
 
+"reference: https://learnopencv.com/conditional-gan-cgan-in-pytorch-and-tensorflow/"
+
 n_classes = 10
 embedding_dim = 100
 latent_dim = 100
